@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Alice",
+    "email": "alice@example.com",
+    "password": "$2a$10$btugnQ2dYJATWkPE8DMvDuyocTcwbJh1TNOc8LfuZz06Y61QKb6hC"
+  },
+  {
+    "name": "Bob",
+    "email": "bob@example.com",
+    "password": "$2a$10$G7f8Ry6uF4ETd4F4B4JbDuZzgVCglYbYlym5.5sk5Q5q5XTqI/2Qe"
+  }
+]

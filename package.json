@@ -1,0 +1,29 @@
+{
+  "name": "badend-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMACAFELLA/badend-Assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMACAFELLA/badend-Assignment/issues"
+  },
+  "homepage": "https://github.com/AMACAFELLA/badend-Assignment#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-openid-connect": "^2.15.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.4"
+  }
+}
